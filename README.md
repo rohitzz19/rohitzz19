@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./avatar.gif" width="300" alt="My animated profile">
+<img src="https://raw.githubusercontent.com/rohitzz19/rohitzz19/main/avatar.gif" width="300" alt="My animated profile">
 
 <h2>Hey, I'm Rohit 👾</h2>
 
